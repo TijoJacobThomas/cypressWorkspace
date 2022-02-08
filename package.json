@@ -1,0 +1,21 @@
+{
+  "name": "cypressworkspace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:dashboard":"cypress run --record --key b7f8ce72-e140-4f3a-98a3-85ff268db047"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axe-core": "^4.4.0",
+    "cypress": "^9.3.1",
+    "cypress-axe": "^0.14.0"
+  },
+  "dependencies": {
+    "cypress-xpath": "^1.6.2"
+  },
+  "description": ""
+}

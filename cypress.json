@@ -1,0 +1,17 @@
+{
+    "baseUrl" :"https://the-internet.herokuapp.com",
+    "watchForFileChanges":true,
+    "viewportHeight" :700,
+    "viewportWidth":1000,
+    "projectId": "gz3ugu",
+    "env":{
+        "username":"tomsmith",
+        "password":"SuperSecretPassword!"
+    },
+    "retries":{
+        "runMode":0,
+        "openMode":0
+
+    }
+
+}
